@@ -1,0 +1,6 @@
+[09-Apr-2015 05:24:16 Europe/Berlin] PHP Warning:  file_get_contents(lang.tmp): failed to open stream: No such file or directory in C:\xampp\htdocs\xampp\index.php on line 2
+[09-Apr-2015 05:26:11 Europe/Berlin] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such table: users in C:\xampp\htdocs\xampp\phonebook.php on line 70
+[09-Apr-2015 05:26:11 Europe/Berlin] PHP Fatal error:  Call to a member function fetchArray() on boolean in C:\xampp\htdocs\xampp\phonebook.php on line 73
+[09-Apr-2015 05:32:00 Europe/Berlin] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Core\init.inc.php on line 17
+[09-Apr-2015 05:53:19 Europe/Berlin] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Core\init.inc.php on line 17
+[09-Apr-2015 05:58:56 Europe/Berlin] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Core\init.inc.php on line 17

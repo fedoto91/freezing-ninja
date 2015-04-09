@@ -1,0 +1,33 @@
+# htdocs config
+**/init.inc.php
+
+# phpMyAdmin config
+**/config.inc.php
+
+# log files
+**/ErrorHandling/**
+
+# files > 5 MB
+# find . -size +1G | cat >> .gitignore
+**/apache/bin/icudt53.dll
+**/MercuryMail/winpm-32.exe
+**/mysql/backup/ibdata1
+**/mysql/backup/ib_logfile0
+**/mysql/backup/ib_logfile1
+**/mysql/bin/mysqld-debug.exe
+**/mysql/bin/mysqld.exe
+**/mysql/bin/mysqltest_embedded.exe
+**/mysql/bin/mysql_client_test_embedded.exe
+**/mysql/bin/mysql_embedded.exe
+**/mysql/data/ibdata1
+**/mysql/data/ib_logfile0
+**/mysql/data/ib_logfile1
+**/mysql/lib/debug/mysqlclient.lib
+**/mysql/lib/debug/mysqlserver.lib
+**/mysql/lib/debug/mysys.lib
+**/mysql/lib/libmysqld.dll
+**/mysql/lib/mysqlclient.lib
+**/mysql/lib/mysqlserver.lib
+**/php/icudt53.dll
+**/php/php5ts.dll
+**/uninstall.exe
